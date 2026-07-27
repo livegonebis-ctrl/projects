@@ -90,19 +90,19 @@ Examples of implemented DAX calculations:
 
 ### Overview
 
-![Overview](screenshots/overview.png)
+![Overview](screenshots/Overview.png)
 
 ### Transactions
 
-![Transactions](screenshots/transactions.png)
+![Transactions](screenshots/Transactions.png)
 
 ### Customers
 
-![Customers](screenshots/customers.png)
+![Customers](screenshots/Customers.png)
 
 ### Loans
 
-![Loans](screenshots/loans.png)
+![Loans](screenshots/Loans.png)
 
 ---
 
